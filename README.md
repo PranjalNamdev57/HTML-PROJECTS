@@ -1,1 +1,3 @@
-This is my first Git Repository.Author-Pranjal Namdev
+This is my first Git Repository.
+<br>
+Author-Pranjal Namdev
